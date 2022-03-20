@@ -1,0 +1,10 @@
+html {
+  margin: 0;
+  padding: 0;
+  color: antiquewhite;
+  background: linear-gradient(180deg, rgb(36, 90, 201), rgb(3, 0, 43));
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: auto;
+  height: auto;
+}

@@ -1,6 +1,6 @@
 .navbar {
-  background: rgb(36, 90, 201);
-  padding: 20px;
+  background: rgba(0, 0, 0, 0.2);
+  padding: auto;
   color: white;
 }
 .navbar nav {
